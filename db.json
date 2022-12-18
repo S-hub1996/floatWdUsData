@@ -59,6 +59,35 @@
           "daydesc": "AFTER BREAKFAST AT HOTEL.        PHI PHI ISLANDS IS A MUST FOR FIRST TIMERS. IT IS THE TOPIC OF CONVERSATION FOR TRAVELLERS ALL OVER THAILAND. A PHIPHI ISLAND TOUR IS THE MOST POPULAR ACTIVITY IN THE REGION. PHI PHI ISLANDS ARE SITUATED 40 KM SOUTH-EAST OFPHUKET AND CONSIST OF SIX ISLANDS. THE MAJOR ONES BEING PHI PHI DON, WHICH HOSTS THE BOHEMIAN TOWN OFPHI PHI ISLANDS, AND PHI PHI LEH WITH MAYA BAY WHICH FEATURED IN THE MOVIE “THE BEACH”. PHI PHI ISLANDSARE FAMOUS FOR ITS LIMESTONE CLIFFS RISING SHEER OUT OF THE EMERALD GREEN WATERS, WHITE POWDERY BEACHESAND ITS MANY CORAL REEFS OFFERING GREAT DIVING AND SNORKELING. A PHI PHI ISLAND TOUR WILL TAKE YOU FOR GREATSIGHTSEEING, SWIMMING AND SNORKELING AT MAYA BAY, LOH SAMAH BAY, PILEH COVE, VIKING CAVE AND MONKEYBEACH.        FULL DAY PHI PHI ISLAND TOUR BY BIG BOAT INCLUDE LOCAL LUNCH (EXCLUDING NATIONAL PARK FEE)"
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Dubai Tour Packages",
+      "image": "https://images.unsplash.com/photo-1606036858743-c106b6ffbff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=938&q=80",
+      "itnary": [
+        {
+          "id":1,
+          "day": "Arrival AT Dubai International Airport & dhow cruise",
+          "daydesc":"On arrival at Dubai International Airport, you'll be transferred to your hotel. Upon arrival check in to the hotel and relax. Dubai as a city which was formerly a desert has now become a Paradise for tourists. Dubai has become one of the world’s top tourist destinations. In the evening get ready to experience the Dhow Cruise. Cruising down Dubai creek is a novel experience, one which you cannot miss when in Dubai. Having fancy dinner on a Dhow Cruise with the fascinating lights of Dubai Creek and the soft music in the background, sip your favorite drink and enjoy a buffet dinner on board the cruise."
+        },
+        {
+          "id":2,
+          "day": "City Tour & Bhurj Khalifa",
+          "daydesc":
+            "After breakfast at hotel. proceed for a half day morning city tour, viewing some of the city’s most beautiful landmarks. The Magnificent Jumeriah Mosque built in 1979 is a fine example of modern Islamic architecture. The mosque is the most frequently visited and photographed sight.  Later in the afternoon head out to visit the Burj Khalifa Building. Get ready to enter the record books and experience a journey through Dubai’s exotic Arabian heritage, the extraordinary story behind Burj Khalifa as the new icon for the Middle East, and view the spectacular panorama from the observatory At the Top, Burj Khalifa. Explore the unique, interactive Burj Khalifa multi-media exhibits. Ascend to Levels 124 and 125 via the high-speed elevators, and soak in the 360-degree views from 1,483-feet (452 meters) up. ( Burj Khalifa slots timing remains subject to availability)"
+        },
+        {
+          "id":3,
+          "day": " Desert Safari with BBQ dinner",
+          "daydesc":
+            "After breakfast at the hotel, the morning is at leisure Later in the day you will be picked up from hotel for the Desert Safari around 03:00 P.M. On this tour experience the thrill of dunes. We stop on the highest sand dune to view the beautiful sunset, a great chance to take amazing photographs – We then continue our journey to the Bedouin Campsite located in the heart of the Desert, While you relax in the comfortable pillow strewn tents, a delicious barbecue will be prepared for you, under the starlit sky. To make the evening a truly memorable event, a belly dancer will dance to the rhythm of Arabic music."
+        },
+        {
+          "id":4,
+          "day": "Day at Leisure or Miracle Garden",
+          "daydesc": "After breakfast at the hotel ,Embark on this tour to Dubai Miracle Garden and unwind yourself with the spectacular structures of over 150 million flowers and plants. The Dubai Miracle Garden is filled with colorful paths boasting the aroma of numerous exotic flowers that makes it one of the must-visit romantic places in Dubai. This human-made wonder is nestled cozily in a vast expanse of 72,000 square meters. Here you will get to enrich your knowledge by exploring millions of flower species and vegetation of 70 different flower varieties"
+        }
+      ]
     }
   ]
 }
