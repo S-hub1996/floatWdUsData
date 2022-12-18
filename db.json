@@ -1,0 +1,64 @@
+{
+  "InternationalPackages" : [
+    {
+      "id": 1,
+      "title": "Malasia Tour Packages",
+      "image": "https://images.unsplash.com/photo-1566914447826-bf04e54bf1be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
+      "itnary": [
+        {
+          "id":1,
+          "day": "Arrival at | Kuala Lumpur",
+          "daydesc":
+            "Welcome to Malaysia! You will be welcomed on arrival at Kuala Lumpur International Airport and transferred to your hotel. Enjoy the rest of the day getting your bearings and exploring the neighbourhood. Kuala Lumpur is the capital of Malaysia.        Overnight at Hotel"
+        },
+        {
+          "id":2,
+          "day": " City Tour",
+          "daydesc":
+            "After Breakfast at hotel. Procced to city tour.         Explore the history and top landmarks of one of the world’s most modern cities — Kuala Lumpur. Learn the story behind some of the city’s most iconic sights as you tour the busy streets and discover quiet charming corners. Take pictures of the some of the tallest skyscrapers — Petronas Twin Towers. Admire the unique architecture of the King’s Palace (Istana Negara), the National Mosque (Masjid Negara) and visit the National Monument and Sultan Abdul Ahmad Building. Watch how local handcrafted souvenirs are made and take a few back home for friends and family.         Overnight at Hotel"
+        },
+        {
+          "id":3,
+          "day": "Genting Island and Batu Caves.",
+          "daydesc":
+            "After Breakfast at Hotel. Hop on a cable car ride on the Genting Skyway over the tropical rainforest and spend the day at Malaysia’s answer to Las Vegas - the Genting Casino, where you can test your luck. Wander around the massive shopping and entertainment complex at Genting Highlands in a six-hour free and easy tour. Head to the Batu Caves, a stunning complex of limestone grottos to discover the Batu Cave Temple, guarded by a golden statue of Murugan, the chief deity of the ancient Tamils. Overnight at Hotel"
+        },
+        {
+          "id":4,
+          "day": "Departure",
+          "daydesc": "After Breakfast at Hotel. Transfer to Kuala Lumpur International Airport. To return back home."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Thailand Tour Packages",
+      "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+      "itnary": [
+        {
+          "id":1,
+          "day": "ARRIVAL AT PHUKET INTERNATIONAL AIRPORT",
+          "daydesc":
+            "PHUKET IS A BEAUTIFUL CITY WITH FUN ACTIVITIES AND NIGHTS LIFE, OUR REPRESENTATIVE WILL THERE AND TRANSFER TO KRABI HOTELS. SPEND DAY AT LEISURE"
+        },
+        {
+          "id":2,
+          "day": "ISLAND TOUR",
+          "daydesc":
+            "AFTER BREAKFAST AT HOTEL. JUST OFF THE COAST OF KRABI AT AO NANG, THE 4 ISLANDS ARE THE CLOSEST, EASIEST AND CHEAPEST WAY TO GET A TRUEidEA OF WHAT A TROPICAL ISLAND IS. IF YOU ONLY VISIT ONE PLACE IN KRABI, THEN THESE ISLANDS MUST BE RIGHT THEREAT THE TOP OF THE LIST. THE WATER AT THE ISLANDS JUST HAS TO BE SEEN TO BE BELIEVED, ON A SUNNY DAY, THERE IS ABRIGHT TURQUOISE RING OF WATER AROUND THE ISLANDS, WHICH SUDDENLY CHANGES TO A REALLY DEEP OCEAN BLUE ASTHE SEAFLOOR DROPS AWAY TO DEEPER WATER.          LONGTAIL BOATS ARE A BIT NOISY, BUT IT REALLY IS AN UNFORGETTABLE EXPERIENCE."
+        },
+        {
+          "id":3,
+          "day": "KRABI HOTEL – PHUKET HOTEL ENROUTE HALF DAY CITY TOUR",
+          "daydesc":
+            "AFTER BREAKFAST AT HOTEL. CHECK OUT FROM HOTEL AND TRANSFERS TO PHUKET HOTEL. ENJOY ENT ROUTE CITY TOUR. GIVE YOURSELF A CULTURE AND SCENIC TREAT IN THIS PROGRAM AND YOUR HOLidAY MEMORIES WILL BE ENRICHED. TAKEIN PHUKET ISLAND’S NATURAL BEAUTY AS YOU ARE DRIVEN ALONG BEACH ROADS THROUGH PATONG, KARON, KATA ANDRAWAI. VISIT THE ‘THREE BEACHES’ VIEWPOINT WHERE YOU CAN TAKE IN A GREAT VISTA OF THE BEAUTIFUL BAYS OF KATANOI, KATA, KARON AND KHO PU ISLAND, AT ONE OF THE ISLAND’S BEST SCENIC SPOT. OVER NIGHTS AT HOTEL."
+        },
+        {
+          "id":4,
+          "day": "PHI PHI ISLAND",
+          "daydesc": "AFTER BREAKFAST AT HOTEL.        PHI PHI ISLANDS IS A MUST FOR FIRST TIMERS. IT IS THE TOPIC OF CONVERSATION FOR TRAVELLERS ALL OVER THAILAND. A PHIPHI ISLAND TOUR IS THE MOST POPULAR ACTIVITY IN THE REGION. PHI PHI ISLANDS ARE SITUATED 40 KM SOUTH-EAST OFPHUKET AND CONSIST OF SIX ISLANDS. THE MAJOR ONES BEING PHI PHI DON, WHICH HOSTS THE BOHEMIAN TOWN OFPHI PHI ISLANDS, AND PHI PHI LEH WITH MAYA BAY WHICH FEATURED IN THE MOVIE “THE BEACH”. PHI PHI ISLANDSARE FAMOUS FOR ITS LIMESTONE CLIFFS RISING SHEER OUT OF THE EMERALD GREEN WATERS, WHITE POWDERY BEACHESAND ITS MANY CORAL REEFS OFFERING GREAT DIVING AND SNORKELING. A PHI PHI ISLAND TOUR WILL TAKE YOU FOR GREATSIGHTSEEING, SWIMMING AND SNORKELING AT MAYA BAY, LOH SAMAH BAY, PILEH COVE, VIKING CAVE AND MONKEYBEACH.        FULL DAY PHI PHI ISLAND TOUR BY BIG BOAT INCLUDE LOCAL LUNCH (EXCLUDING NATIONAL PARK FEE)"
+        }
+      ]
+    }
+  ]
+}
