@@ -88,6 +88,40 @@
           "daydesc": "After breakfast at the hotel ,Embark on this tour to Dubai Miracle Garden and unwind yourself with the spectacular structures of over 150 million flowers and plants. The Dubai Miracle Garden is filled with colorful paths boasting the aroma of numerous exotic flowers that makes it one of the must-visit romantic places in Dubai. This human-made wonder is nestled cozily in a vast expanse of 72,000 square meters. Here you will get to enrich your knowledge by exploring millions of flower species and vegetation of 70 different flower varieties"
         }
       ]
+    },
+    {
+      "id": 4,
+      "title": "Bali Tour Packages",
+      "image": "https://images.unsplash.com/photo-1604999333679-b86d54738315?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1325&q=80",
+      "itnary": [
+        {
+          "id":1,
+          "day": "ARRIVAL AT AIRPORT",
+          "daydesc":"Arrive at Ngurah Rai Airport – Meet and greet by our local English driver – Check in to hotel Kuta (X)."
+        },
+        {
+          "id":2,
+          "day": "WATERSPORTS & ULUWATU TEMPLE",
+          "daydesc":
+            "After Breakfast at Hotel. Pick up at the lobby hotel at 08.00am – Transfer to Tanjung Benoa Beach for Water Sport activity included 1x ride of Banana Boat, 1x Parasailing & 1x Jet Sky ( Others water sport can be enjoyed by own expense ) – Lunch by Own – Uluwatu with Kecak Dance Performance – Back to Hotel (X)."
+        },
+        {
+          "id":3,
+          "day": "NUSA PENIDA",
+          "daydesc":
+            "( Request Breakfast Box one day before at Your Hotel ) – Pickup in the lobby at 06:00am – Depart to Sanur Port (07:30am Boat Boarding ) – 09:00am Arrived at Nusa Penida Island, Greet & Welcoming with our local Driver and directly to visit Kelingking Cliff – Broken Beach – Angle Billabong – Lunch Local Restaurant ( Fried Rice or Fried Noodles ) – Crystal Bay – 15:00 Transfer to Penida Port – Crossing to Sanur – 17:15 Arrived at Sanur – Back to Hotel (L)."
+        },
+        {
+          "id":4,
+          "day": "Kintamani & Ubud Tour",
+          "daydesc": "After Breakfast at Hotel. Pick up at the lobby hotel at 08.00am – Batubulan Village ( Batik Painting ) – Celuk Village ( Gold & Silver Smith ) – Tegenungan Waterfall – Kintamani ( Volcano & Batur Lake View ) – Lunch by Own – Coffee Plantation – Ubud Palace – Back to Hotel (X)."
+        },
+        {
+          "id":5,
+          "day": "BALI HAI DINNER CRUISE",
+          "daydesc": "Breakfast at Hotel, Spend day at leisure. In Afternoon Pick up at the lobby hotel at 16:00 – Transfer to Benoa Harbor for Bali Hai Dinner Cruise (05.00pm Check in – 05.45pm Boarding – include : Welcome drinks and canapés – International buffet dinner – Live musical entertainment – Live cabaret show ) – Back to Hotel (D)."
+        }
+      ]
     }
   ]
 }
