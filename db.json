@@ -127,5 +127,309 @@
         }
       ]
     }
+  ],
+  "DomesticPackages" : [
+    {
+      "id": 1,
+      "title": "Kashmir Holiday Package",
+      "image": "hhttps://images.unsplash.com/photo-1564329494258-3f72215ba175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description":"Kashmir is an epitome of natural beauty, and it is renowned the world over for that. You can soak your senses on the many lakes, gardens and hill stations that attract thousands of tourists every year. Take perfect pictures and take home memories of a perfect holiday.",
+      "itnary": [
+        {
+          "id":1,
+          "day": "Arrival to Srinagar",
+          "daydesc":
+            "On Arrival at Srinagar you will warmly receive by our tour representative and transfer you to Srinagar Hotel. In evening enjoy Shikara ride of famous Dal Lake. Check in Hotel for dinner and overnight stay."
+        },
+        {
+          "id":2,
+          "day": "Srinagar-Sonmarg-Srinagar",
+          "daydesc":
+            "After breakfast, leave Srinagar and drive to Sonmarg (meadow of gold), it has sheer scenic splendour. The very way-a metalled road - snakes through massive mountains laden with forests and firs. After a breath-taking journey from Srinagar, you come across Sindh meanders that are abounded with trout & Mahseer. Onwards the valley opens up to a meadow. Ponies d for a trip up to Thajiwas glacier - a major attraction during the summer months. Sonmarg's importance lies in the fact that it is the last halt on the Kashmir side for the drive from Srinagar to Leh. You will be fascinated to see snowy mountains against a cerulean sky against its backdrop. In the evening return back to Srinagar Overnight stay at hotel. "
+        },
+        {
+          "id":3,
+          "day": " Srinagar-Gulmarg ",
+          "daydesc":
+            "After breakfast check out from the hotel & drive to Gulmarg (2440 Meters above Sea level). It is one of the most beautiful hill stations and also called “Meadows of Flower”. It has world’s highest golf course and Gulmarg is also famous for winter sports like skiing. enjoy guided sightseeing of Gulmarg alsoenjoyGondola ride (Cable car, owncost) from Gulmargto Khilanmarg. In evening, return back to hotel for dinner and overnight stay Gulmarg."
+        },
+        {
+          "id":4,
+          "day": "Gulmarg-Pahalgam",
+          "daydesc": "After breakfast leave from hotel, take an enthralling drive through the scenic trials that connects Jammu and Pahalgam; en route, you will get an opportunity to visit the magnificent Saffron fields. Also known as the ‘Valley of the Shepherds’, Pahalgam is one of the most scenic and popular hill stations in the entire country The drive will get more exciting with your visit to the historic Avantipura Ruins and the Anantnag Sulphur Springs, Dinner and Overnight at Stay at hotel. "
+        },
+        {
+          "id":5,
+          "day": " Pahalgam-Srinagar",
+          "daydesc": "After breakfast at hotel local Sightseeing of famous Nishat Garden known as 'Gard 6th century (1633) by Mughal Emperor Asif Khan. Then visiting Shalimar Garden known as 'Garden of love' built in 16th century (1619) by Mughal Emperor Jahangir for his beloved wife Noor Jehan or (Mehr-un-Nissa) also visit Chashme Shahi Later visit to famous Pari Mahal. Enjoy shopping at Kashmiri craft & art stores, check in hotel dinner and overnight stay at houseboat."
+        },
+        {
+          "id":6,
+          "day": "Departure",
+          "daydesc": "After Breakfast at hotel leave for Srinagar Airport with beautiful memories!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rajasthan 06Nights /07Days Holiday Package",
+      "image": "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description":"Rajasthan, the name evokes a stately royal heritage that graces its mighty forts and majestic palaces. This realm of the Maharajas features a vibrant, multi-hued culture that struts like a multi-coloured peacock over the drab browns and beiges of the desert. Rajasthan has a valiant history that has carved out prosperity from the arid land and stands as a testament to human endeavour. A Rajasthan tour is a spectacular medley of its royal grandeur, colourful festivals, picture-postcard landscapes and warm hospitality. Take a Rajasthan trip to experience the opulence of its regal past embellished with the latest creature comforts and amenities.",
+      "itnary": [
+        {
+          "id":1,
+          "day": "Arrive in Jaipur",
+          "daydesc":
+            "Your arrival will be at Jaipur, the national capital of India. On your arrival at Delhi airport, you will be received by our representative and then transfer to the hotel. Stay overnight at the hotel."
+        },
+        {
+          "id":2,
+          "day": " Jaipur Sightseeing",
+          "daydesc":
+            "After breakfast, go for an excursion to Amber Fort. At Amber fort, enjoy an elephant joy ride. Also visit Sheesh Mahal, City Palace, Jantar Mantar, Hawa Mahal- the Palace of Winds, and so on. In the evening, visit local markets of Jaipur. After dinner, stay overnight at the hotel."
+        },
+        {
+          "id":3,
+          "day": "Jaipur - Bikaner",
+          "daydesc":
+            "In the morning drive to Bikaner. It was established way back in 1488 AD by Rao Bika Ji. Bikaner is situated in north western part of Rajasthan. Here at Bikaner, you will find huge walls and many sand dunes. Upon your arrival, check-in at the hotel and then go for sightseeing tour of the city. Some of the famous places to visit in the city include of Junagarh Fort, the Ganga Golden Jubilee Museum, Lalgarh Palace and many more.In the evening visit Camel Breeding Farms."
+        },
+        {
+          "id":4,
+          "day": "Bikaner - Jaisalmer",
+          "daydesc": "In the morning drive to Jaisalmer, also known as Golden City. Upon your arrival, check-in at the hotel. After check-in, you will go for a sightseeing tour of the city. Some of the best places to explore in the city include of Jaisalmer Fort, Salim Singh Ki Haveli, Patwon Ki Haveli and so on. In the evening, explore colorful markets of the city. After dinner, stay overnighta at the hotel."
+        },
+        {
+          "id":5,
+          "day": "Jaisalmer sightseeing",
+          "daydesc": "Jaisalmer is famous for its beauty of sand dunes. After breakfast, you will visit Sam sand dunes which is situated a distance of near about 42 kilometers from Jaisalmer. It is located in the center of the Thar Desert. You can also enjoy the camel safari here and enjoy the experience of desert Jeep safari. In the evening, you will be back to Jaisalmer. After dinner, stay overnight at the hotel"
+        },
+        {
+          "id":6,
+          "day": "Jaisalmer - Jodhpur",
+          "daydesc": "After Breakfast Drive to Jodhpur Visit to Mehrangarh Fort. It located at a distance of five km from Jodhpur. It is one of the largest forts in India. The Fort was established by Rao Jodha in the year 1459. Seven gates have to be crossed to reach the fort. Other attractions of Mehrangarh Fort, Rajasthan include several palaces inside the fort, with their extensive and huge courtyards. Also visit Jaswant Thada which is situated close by to Mehrangarh Fort.. After dinner, stay overnight at the hotel."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Goa Holiday Packages",
+      "image": "https://images.unsplash.com/photo-1587922546307-776227941871?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "description":"If chilling at a shack, sipping on an even more chilled beverage and simply watching the world turn on its axis is what you desire, then Goa is the place for you! Goa conjures mental images of golden sandy beaches, swaying palm trees, calm yoga retreats and not so calm parties. Situated along the west coast of India, Goa is one of the smallest territories in the country. This beachside gem of India has a 100 km long coastline which stretches across the whole state, making Goa one large beach paradise.",
+      "itnary": [
+        {
+          "id":1,
+          "day": " Arrival at Goa Railway Station/Airport",
+          "daydesc":"Get greeted by our representative who will transfer you to the pre-booked Hotel/Resort. Evening free to stroll on the beaches & chill out at the beach shacks. Overnight stay in Hotel."
+        },
+        {
+          "id":2,
+          "day": "North Goa",
+          "daydesc":
+            "Breakfast After breakfast depart for North Goa Tour. Places to cover in North Goa will be Coco beach, Fort Aguada, Dolphin Trip (On your own), Vaga Beach, Anjuna Beach, Calangute Beach. By late evening return to hotel for Overnight stay."
+        },
+        {
+          "id":3,
+          "day": "South Goa",
+          "daydesc":
+            "Breakfast at Hotel. Places to cover in South Goa will include visits to finest heritage places in Goa. We will start off with Basilica of Bom Jesus, A World heritage site which holds the remains of St. Francis Xavier. Thereafter you will have a choice to either explore Museum of Christian Art or Wax World Museum near Gandhi Circle. Our trip will continue to Mangueshi & Shantu Dugra Temple. At last, our South Goa sightseeing will finish off with a visit to Ancestral Goa – A recreational yet educational spot at Loutolim . Late evening return to hotel for overnight stay."
+        },
+        {
+          "id":4,
+          "day": "Departure",
+          "daydesc": "Breakfast Today morning after breakfast check out from the hotel and you will be dropped at airport/railway station for your further journey..."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "North East India Holiday Packages",
+      "image": "https://images.unsplash.com/photo-1587889878559-dd7b59ef7eee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+      "description":"India’s North East, called the ‘land of the seven sisters’, is a region that can be best described as virgin, wild and untouched. North East India comprises of seven states namely Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, and Tripura. Each state is a traveller’s paradise, with picturesque hills and green meadows that shelter thousands of species of flora and fauna. Besides these, there are a number of wild life sanctuaries and national parks where rare animals, birds, and plants provide fascinating insight and experiences to travellers.",
+      "itnary": [
+        {
+          "id":1,
+          "day": "Guwahati – Bhalukpong/ Nameri (ASSAM)",
+          "daydesc":"Arrive Guwahati airport and drive to Nameri / Bhalukpong (240 kms / 5 hrs drive approx). Check-in Hotel. Overnight.."
+        },
+        {
+          "id":2,
+          "day": " Bhalukpong/ Nameri – Dirang (ASSAM – ARUNACHAL PRADESH)",
+          "daydesc":
+            "Today after breakfast drive to Dirang (180 kms / 08 hrs), enroute at Tipi visit Orchid Center and enroute visit Sessa Orchid Sanctuary (blooming is from end March till May), reach Dirang and visit the Dirang Dzong and a Monpa village. Check into the hotel and overnight at Dirang."
+        },
+        {
+          "id":3,
+          "day": " Dirang – Tawang (ARUNACHAL PRADESH)",
+          "daydesc":
+            "Today after breakfast drive to Tawang (160 kms / 08 hrs), enroute you will visit Sella Pass and Sella Lake situated at an altitude of 13476 ft. Also visit Jaswant Ghar and before reaching Tawang visit the Nunarang fall. Reach Tawang and check into Hotel. Evening at leisure. Overnight at Tawang."
+        },
+        {
+          "id":4,
+          "day": "Tawang (ARUNACHAL PRADESH)",
+          "daydesc": "Today visit Tawang Monestry - The Famous Gaden Namgyal Lhatse, popularly known as Tawang Monastery was founded by Merak Lama Lodre Gyatso in the year 1680-81. The monastery stands on the spur of a hill, about 10,000 feet above sea level and has ravines in the south and west, narrow ridge on the north and gradual slope on the east. It offers a commanding and picturesque view of the Tawang-chu valley. From a distance it appears like a fort as if guarding the votaries in the wide valley below. Tawang monastery is the largest of its kind in the country and is one of the larges t monasteries in Asia. Though it has the capacity for housing about seven hundred monks, the actual number of resident lamas (monks) at present is a little more than 450. This monastery is the fountain-head of the spiritual life of the people of this region. Also visit Urgelling Monastery - the birth place of Sixth Dalia Lama. Ani Gompa , after a late lunch and refreshment visit Tawang War Memorial and evening at leisure. Overnight at Tawang. Note- Our vehicles are not allowed for PTSo lake and Madhuri lake sightseeing at Tawang, hence, guests have to hire local vehicle and our driver will assist the guests, but please note that we or our driver have no control for the same. Additional cost of hiring vehicle at Tawang: Between Rs.4500/- and Rs.5500/- (depending on the places of visit, excluding visit to Bumla Border (India-China border).."
+        },
+        {
+          "id":5,
+          "day": "Tawang - Bomdila (ARUNACHAL PRADESH)",
+          "daydesc": "After breakfast drive back to Bomdila. Overnight stay at Bomdila."
+        },
+        {
+          "id":6,
+          "day": "Bomdila – Nameri/ Bhalukpong (ARUNACHAL PRADESH – ASSAM)",
+          "daydesc": "After breakfast drive to Nameri / Bhalukpong. Overnight in Tezpur/Bhalukpong."
+        },
+        {
+          "id":7,
+          "day": "Departure / Tezpur/ Bhalukpong- Guwahati Airport Drop (ASSAM)",
+          "daydesc": "After breakfast at Hotel. drive to Guwahati airport (240 kms / 5 hrs drive)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Andaman Holiday Packages",
+      "image": "https://images.unsplash.com/photo-1640618792277-b91f3199f6a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "description":"If you are stuck in the rut and a spirit sapping life, then the idyllic tropical archipelago of the Andaman package is the perfect getaway and escape from the daily humdrum of a fast-paced life. The Andaman Islands is a heavenly paradise – serene and untouched. The Andaman tour packages are designed to ‘let your hair down, unwind and chill out, and recharge your batteries. So, whether it is a couples/honeymooner’s vacation, family vacation, holidaying with friends, or going solo – the Andaman and Nicobar will overreach, in fulfilling your dreams of a great vacation.",
+      "itnary": [
+        {
+          "id":1,
+          "day": " Port Blair: Welcome To Andaman Islands",
+          "daydesc":"Your Andaman Honeymoon holiday begins with your arrival in Port Blair Upon your arrival, at the Veer Savarkar Airport you will be greeted by the agent’s representative. Check in your hotel and find a beautifully decorated room with lots of honeymoon freebies. Have some delicious lunch at your hotel and make yourself at home. After some time, head out with your spouse for a little sightseeing. Your Andaman tour itinerary starts at Corbyn’s Cove Beach where you can enjoy quite a sight of turquoise waters. The beach also provides a lot of fun water activities like jet skiing or motor scooter. Your next destination would be the Light and Sound Show at the Cellular Jail where you would come across a musical tale of heroism of freedom fighters. On return to the hotel, you will be served a deliciously hot dinner. Enjoy your overnight stay at Port Blair."
+        },
+        {
+          "id":2,
+          "day": "Havelock",
+          "daydesc":
+            "Transfer From Port Blair Move to Havelock on the second day of this honeymoon package to Andaman After an early breakfast, prepare for a private ferry ride to Havelock. It is going to be a scenic and romantic ride with your soulmate on this romantic Andaman honeymoon. Disembark at Havelock and check in to your hotel. After lunch, relax for a while and pack your swimming paraphernalia. You will be taken to Radhanagar Beach - one of the best beaches in Asia. Enjoy a romantic stroll with your partner and enjoy the breathtaking sunset that the beach is known for. On your return you will be served with a delightful dinner. Stay Overnight in Havelock and enjoy your second night of Andaman honeymoon."
+        },
+        {
+          "id":3,
+          "day": "Havelock: Snorkeling On Elephant Beach",
+          "daydesc":
+            "Enjoy snorkeling in the clear waters of the Elephant Beach on your third day of Andaman honeymoon trip Have a hearty breakfast and step out for a visit to Elephant Beach, famous for crystal clear waters. Add some adventure to your Andaman honeymoon package by going for snorkeling. Witness the brilliant coral reefs and their striking colors as you float in the clear waters. Also, the beach is peaceful and serene; just perfect for honeymoon couples. Have a lavish supper on your return. Sleep overnight at Havelock."
+        },
+        {
+          "id":4,
+          "day": " Port Blair",
+          "daydesc": "Return Trip From Havelock Visit the Chidiya Tapu to watch diverse species of birds on this romantic honeymoon to Andaman Eat some finger-licking breakfast and get a pair of binoculars as you are about to visit the ‘Chidiya Tapu’ on this Andaman Tour. The Tapu is a home to thousands of different species of birds which migrate to the island every year. You will be captivated in the scenery made by the striking colours of the birds with a sunset in the background. With this pristine view, return to Port Blair. Enjoy some alone time in hotel with your partner."
+        },
+        {
+          "id":5,
+          "day": " Port Blair- Departure",
+          "daydesc": "Depart for your homeland after a visit to the Anthropological Museum on the last day of your Andaman honeymoon tour Post breakfast, advance with your luggage to the Anthropological Museum which is included in this 5 day Andaman tour itinerary. The museum upgrades your knowledge about the indigenous people of Andaman by showing you some artefacts and excavated items of the tribals. Proceed to the Veer Savarkar Airport and board your flight."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Kerala Holiday Packages",
+      "image": "https://images.unsplash.com/photo-1614090699960-b4c81be49f3c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "description":"Heaven on earth isn’t a dream, it’s a destination. One that’s so easily and affordably accessible, you don’t even have to leave the country. All you have to do is hop on to the next flight, train or bus and make your way to the spectacular last stretch of the West Coast of India, to Kerala. Kerala holidays are popular around the world. Where the sublime beaches, cultural richness, historic depth, exotic wildlife, and beautiful mountainsides promise - and always deliver - an unforgettable getaway. So, are you ready to have yours?",
+      "itnary": [
+        {
+          "id":1,
+          "day": "ARRIVE COCHIN - MUNNAR (4.5HRS DRIVE)",
+          "daydesc":"On arrival at Cochin Airport/ Railway Station you will be received by our representative and drive straight to Munnar hill station. Enroute stop at Valera and Cheeyappara Waterfalls. Reaching Munnar, check into the hotel and relax. Overnight at Munnar."
+        },
+        {
+          "id":2,
+          "day": "MUNNAR SIGHTSEEING",
+          "daydesc":
+            "Full day sightseeing in Munnar visiting the Eravikulam National Park, Rajamala Peak, Tea Museum (closed on Mondays), Mattupetty Dam, and Echo Point. Overnight at Munnar"
+        },
+        {
+          "id":3,
+          "day": " MUNNAR -THEKKADY (4HRS DRIVE)",
+          "daydesc":
+            "Drive to Thekkady wildlife (Periyar). Check in the hotel and later free for optional activities like boating in the lake, elephant ride, spice tour, trekking, etc. depending upon the time available. Overnight at Thekkady"
+        },
+        {
+          "id":4,
+          "day": "THEKKADY - ALLEPPEY",
+          "daydesc": "After breakfast is served at the Thekkady hotel/resort, you will be checked-out and driven towards Alleppey, the ‘Backwater Capital’ of Kerala. Also known as the ‘Venice of the East’, this backwater abode is a true treasure trove for the nature lovers, honeymooners, leisure seekers and other classes of visitors as well. Dinner and overnight stay at houseboat."
+        },
+        {
+          "id":5,
+          "day": "DEPARTURE TRANSFERS",
+          "daydesc": "Drive back to Cochin for your departure. You will be transferred to Cochin airport/ railway station for your onward journey back home"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Himachal Pradesh Holiday Packages",
+      "image": "https://images.unsplash.com/photo-1597167231350-d057a45dc868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1382&q=80",
+      "description":"The land where the Earth meets the sky, Himachal Pradesh has always been a dream destination for every Indian traveller. It’s no surprise then that state is one of India’s most popular tourist destinations with solo trips to Himachal Pradesh being somewhat of a rite of passage for ardent travellers. Kamet Holidays India encourages you to take a Himachal Pradesh tour and bask in the tranquillity of this mountain paradise. Here are top Himachal tour packages",
+      "itnary": [
+        {
+          "id":1,
+          "day": "ARRIVE DELHI & DRIVE TO SHIMLA (340 KMS/08 HRS)",
+          "daydesc":"Arrive at the Delhi Airport / Railway station and meet our driver who would help you in an assisted transfer to Shimla by road, a famous hill station in Himachal Pradesh.Upon arrival in Shimla, check- into your pre-booked hotel. After some rest, dinner and overnight stay."
+        },
+        {
+          "id":2,
+          "day": "PARTAKE SIGHTSEEING",
+          "daydesc":
+            "After breakfast, leave your hotel room to partake in sightseeing. Visit Some of the popular attractions include second oldest Church in North India, Sankat Mochan temple, dedicated to Lord Hanuman, Jakhu temple, and the State Museum. Do not miss a leisure wall on the Ridge road, while treating your eyes to the beauty all around. In the evening, return to the hotel for overnight stay."
+        },
+        {
+          "id":3,
+          "day": " SHIMLA TO MANALI",
+          "daydesc":
+            "After breakfast, check out from hotel and drive to Manali and enjoy the senic beauty. On arrival check in at hotel and overnight stay a hotel."
+        },
+        {
+          "id":4,
+          "day": " MANALI SIGHTSEEING",
+          "daydesc": "After breakfast local sightseeing of Manali “HADIMBA TEMPLE” Built in 1553 with a superbly crafted four tiered pagoda roof, it is famous for its exquisitely carved doorway . “CLUB HOUSE” The Club House with its comprehensive facilities that include a roller skating rink, an auditorium, billiards rooms, a library, a bar and restaurant makes wonderful outing for the day.” Tibetan Monastery, Mall Road, Van Vihar, and “VASHIST” Well known for its hot Sulphur springs. There are old temples dedicated to the sage Vashisth and to Lord Rama. Also visit Marhi, Rahalla Falls, Nehru Kund (Cold Water Spring-Named by Late PM Pt. Jawaharlal Nehru). Return back to hotel. Overnight stay at hotel."
+        },
+        {
+          "id":5,
+          "day": "DAY TRIP TO SOLANG VALLEY",
+          "daydesc": "After Early morning Breakfast,proceed to Solang Valley ( Snow Point ) Situated at 13 km northwest of Manali, particularly a pictorial spot presenting awesome scenery of snow clad mountains and glaciers. The most common sports at Solang Valley are parachuting, paragliding, skating and zorbing. Dinner at Hotel, Overnight Stay."
+        },
+        {
+          "id":6,
+          "day": " DEPARTURE TRANSFER",
+          "daydesc": "Drive back to Delhi and transfer to airport / railway station."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Ladakh Holiday Packages",
+      "image": "https://images.unsplash.com/photo-1617824077840-0d7a0cd13448?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description":"Ladakh region, is one of the most charming and breathtaking destinations for tourists. If you are planning a tour package to Leh, be ready for surprises waiting to bowl you over. You will be meandering through the narrow lanes of the main bazaar one moment and come face to face with a lovingly built stupa the next moment. You would find thukpas and freshly baked croissants on the same menu.",
+      "itnary": [
+        {
+          "id":1,
+          "day": "ARRIVE IN LEH",
+          "daydesc":"Arrival Leh Kushok Bakula Airport (This must be one of the Most Sensational Flights in the World. On a clear day from one side of the aircraft can be seen in the distance the peaks of K2, Nanga Parbat, Gasherbrum and on the other side of the aircraft, so close that you feel you could reach out and touch it, is the Nun Kun massif.) Upon arrival you will met by our representative and transfer to Hotel for Check in. Complete day for rest and leisure to acclimatize followed by Welcome tea or Coffee at the Hotel. Evening visit Shanti Stupa. Later visit the market (stay for 01hour only). Return back to the hotel / Guest house for Overnight stay. "
+        },
+        {
+          "id":2,
+          "day": "LEH - NUBRA VIA KHARDUNGLA PASS (140 KMS / 5 TO 6 HRS)",
+          "daydesc":
+            "Early morning proceed to Nubra Valley via the World Highest Motorable road (5602 Mts) Khardungla pass. Arrive Khalsar Sand Dunes and enjoy various Adventure Activities like ATV  ride, World’s highest and longest Zipline ride, Cycle Zipline, and Bungee Jumping amoung other activities. You can enjoy delicious lunch there as well (on own). Later visit Hunder Sand Dunes and Diskit monastery and check in at your camp / resort. Overnight at the camp"
+        },
+        {
+          "id":3,
+          "day": "NUBRA - PANGONG (160 KMS / 04-05 HRS)",
+          "daydesc":
+            "Morning after and early breakfast proceed Pangong Lake, driving through the beautiful Shayok River Valley. Arrive Pangong and visit the lake. And c heckinto your camp / resort. Evening free to explore the lake area. Overnight at the hotel."
+        },
+        {
+          "id":4,
+          "day": " PANGONG LAKE - LEH (140 KMS / 05 HRS)",
+          "daydesc": "Morning after breakfast drive Evening back to hotel in Leh for dinner and overnight"
+        },
+        {
+          "id":5,
+          "day": " DEPARTURE FROM LEH",
+          "daydesc": "Leave on time for Leh airport to board your flight."
+        }
+      ]
+    }
   ]
 }
