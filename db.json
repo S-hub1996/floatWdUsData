@@ -126,6 +126,40 @@
           "daydesc": "Breakfast at Hotel, Spend day at leisure. In Afternoon Pick up at the lobby hotel at 16:00 – Transfer to Benoa Harbor for Bali Hai Dinner Cruise (05.00pm Check in – 05.45pm Boarding – include : Welcome drinks and canapés – International buffet dinner – Live musical entertainment – Live cabaret show ) – Back to Hotel (D)."
         }
       ]
+    },
+    {
+      "id": 5,
+      "title": "Singapore Holiday Packages",
+      "image": "https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "description":"Singapore has been always been a popular vacation destination for people since decades. One of the reasons why it is so famed is because of its ability to keep reinventing itself every few years. Whether it’s in terms of iconic landmarks or beautiful sights and fantastic things to do, Singapore has become a melting pot of culture and is well-known among people for its delicious street food and high-end shopping malls. Singapore is the upper crust when it comes to holidaying in Asia as it offers a cosmopolitan experience unmatched by any other Asian destinations.",
+      "itnary": [
+        {
+          "id":1,
+          "day": "Arrival Singapore & Night Safari",
+          "daydesc":"Upon arrival at Singapore Airport, you will be transferred to your Hotel. In the evening visit Singapore’s Night Safari provides a nocturnal experience like no other in the city; it’s also the world’s very first night zoo. Opened in 1994, the 35-hectare park features over 1,000 animals from 120 different species, living in their naturalistic night-time environments. Overnight in Singapore."
+        },
+        {
+          "id":2,
+          "day": "Singapore City Tour and Sentosa",
+          "daydesc":
+            "After a delicious breakfast, get ready to explore Singapore. Visit popular landmarks of the city. Drive past the Suntec city, Parliament House, Supreme Court, City Hall, China Town and Little India. Visit the most iconic landmark of the city – Merlion Park. Later in the afternoon, proceed to Sentosa Island. The State of Fun with two-way Sentosa Cable Car. Then visit Madame Tussaud’s Wax Museum. End the day on a musical high with the Wings Of Time Show. Return to the hotel Overnight stay in Singapore."
+        },
+        {
+          "id":3,
+          "day": "Universal Tour",
+          "daydesc": "Today after breakfast at the hotel proceed to the Universal Studios Singapore. It is the most visited movie-based Theme-park of Singapore.Universal Studios Singapore is Southeast Asia’s first and only Universal Studios theme park. Immerse yourself in the storytelling of Hollywood. Be transported by adrenaline-pumping rides, interactive shows and a wide variety of exciting attractions based on the blockbuster movies and television series you know and love so well. Overnight stay in Singapore."
+        },
+        {
+          "id":4,
+          "day": "Gardens by the Bay",
+          "daydesc": "Today after breakfast at the hotel Spend Day at Leisure . In Evening Get up close to over 1.5 million plants from around the world in the Gardens’ iconic cooled conservatories. Explore and learn about these amazing megastructures which are groundbreaking architectural and engineering feats in their own right."
+        },
+        {
+          "id":5,
+          "day": "Departure",
+          "daydesc": "Today after breakfast at the hotel. Transfers to Singapore International Airport to Return back Home with Sweets Memories"
+        }
+      ]
     }
   ],
   "DomesticPackages" : [
