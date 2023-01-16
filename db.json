@@ -59,6 +59,11 @@
           "id":4,
           "day": "PHI PHI ISLAND",
           "daydesc": "AFTER BREAKFAST AT HOTEL.        PHI PHI ISLANDS IS A MUST FOR FIRST TIMERS. IT IS THE TOPIC OF CONVERSATION FOR TRAVELLERS ALL OVER THAILAND. A PHIPHI ISLAND TOUR IS THE MOST POPULAR ACTIVITY IN THE REGION. PHI PHI ISLANDS ARE SITUATED 40 KM SOUTH-EAST OFPHUKET AND CONSIST OF SIX ISLANDS. THE MAJOR ONES BEING PHI PHI DON, WHICH HOSTS THE BOHEMIAN TOWN OFPHI PHI ISLANDS, AND PHI PHI LEH WITH MAYA BAY WHICH FEATURED IN THE MOVIE “THE BEACH”. PHI PHI ISLANDSARE FAMOUS FOR ITS LIMESTONE CLIFFS RISING SHEER OUT OF THE EMERALD GREEN WATERS, WHITE POWDERY BEACHESAND ITS MANY CORAL REEFS OFFERING GREAT DIVING AND SNORKELING. A PHI PHI ISLAND TOUR WILL TAKE YOU FOR GREATSIGHTSEEING, SWIMMING AND SNORKELING AT MAYA BAY, LOH SAMAH BAY, PILEH COVE, VIKING CAVE AND MONKEYBEACH.        FULL DAY PHI PHI ISLAND TOUR BY BIG BOAT INCLUDE LOCAL LUNCH (EXCLUDING NATIONAL PARK FEE)"
+        },
+        {
+          "id":5,
+          "day": "RETURN TO INDIA",
+          "daydesc": "AFTER BREAKFAST AT HOTEL. COMPLETE THE CHECK OUT FORMALITIES. TRANSFERS TO PHUKET INTERNATIONAL AIRPORT WITH LOVEABLE MEMORIES."
         }
       ]
     },
@@ -89,6 +94,11 @@
           "id":4,
           "day": "Day at Leisure or Miracle Garden",
           "daydesc": "After breakfast at the hotel ,Embark on this tour to Dubai Miracle Garden and unwind yourself with the spectacular structures of over 150 million flowers and plants. The Dubai Miracle Garden is filled with colorful paths boasting the aroma of numerous exotic flowers that makes it one of the must-visit romantic places in Dubai. This human-made wonder is nestled cozily in a vast expanse of 72,000 square meters. Here you will get to enrich your knowledge by exploring millions of flower species and vegetation of 70 different flower varieties"
+        },
+        {
+          "id":5,
+          "day": "Departure transfer",
+          "daydesc": "Transfer to Dubai International Airport. Back to home with sweet memories of your tour."
         }
       ]
     },
@@ -124,6 +134,11 @@
           "id":5,
           "day": "BALI HAI DINNER CRUISE",
           "daydesc": "Breakfast at Hotel, Spend day at leisure. In Afternoon Pick up at the lobby hotel at 16:00 – Transfer to Benoa Harbor for Bali Hai Dinner Cruise (05.00pm Check in – 05.45pm Boarding – include : Welcome drinks and canapés – International buffet dinner – Live musical entertainment – Live cabaret show ) – Back to Hotel (D)."
+        },
+        {
+          "id":6,
+          "day": "Return to India",
+          "daydesc": "Check Out Process – Pick up in the Lobby 5 Hours before flight time – Transfer to Airport for flight."
         }
       ]
     },
